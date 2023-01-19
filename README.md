@@ -1,4 +1,4 @@
-# Favorite pet project: [SITE (CLICK)][link5]
+# Favorite pet project: [Articles][link5]
 
 [link5]: https://github.com/Meerch/articles
 ## 💻 Tech Stack (Not all):
